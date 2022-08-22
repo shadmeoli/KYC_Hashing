@@ -18,8 +18,7 @@
                   <v-btn class="rounded-0" color="#000000" x-large block dark>Register</v-btn>
                   <v-card-actions class="text--secondary">
                     <v-spacer></v-spacer>
-                    <!-- <router-link :to="{ name: 'SignUp' }">Sign Up</router-link> -->
-                    Already have an account? <a href="../components/Login.vue" class="pl-2" style="color: #000000">Sign In</a>
+                    Already have an account? <a href="../components/Login.vue" class="pl-2" style="color: purple">Sign In</a>
                   </v-card-actions>
                 </v-form>
               </v-card-text>
