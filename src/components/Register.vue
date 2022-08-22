@@ -7,7 +7,7 @@
                 <h1 class="mb-2">Register</h1>
               </div>
               <a href="https://edu-fedorae.netlify.app" name="Fedorae Education" title="Fedorae Education" target="_blank">
-                <v-img src="@/assets/logo.png" alt="Fedorae Education Log" contain height="200"></v-img>
+                <v-img src="@/assets/logo.svg" alt="Fedorae Education Log" contain height="200"></v-img>
               </a>
               <v-card-text>
                 <v-form>

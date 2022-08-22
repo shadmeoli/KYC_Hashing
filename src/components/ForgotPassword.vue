@@ -8,7 +8,7 @@
                 <p>We will send a password reset link to the email address of the connected accounted.</p>
               </div>
               <a href="#">
-                <v-img src="@/assets/logo.png" alt="vuetify components logo" contain height="200" />
+                <v-img src="@/assets/logo.svg" alt="vuetify components logo" contain height="200" />
               </a>
               <v-form>
                 <v-text-field
