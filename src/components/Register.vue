@@ -6,8 +6,8 @@
               <div class="text-center">
                 <h1 class="mb-2">Register</h1>
               </div>
-              <a href="https://edu-fedorae.netlify.app" name="Fedorae Education" title="Fedorae Education" target="_blank">
-                <v-img src="@/assets/logo.svg" alt="Fedorae Education Log" contain height="200"></v-img>
+              <a href="" name="KYC_Hashing" title="KYC_Hashing" target="_blank">
+                <v-img src="@/assets/logo.svg" alt="KYC_Hashing" contain height="200"></v-img>
               </a>
               <v-card-text>
                 <v-form>
@@ -19,12 +19,12 @@
                   <v-card-actions class="text--secondary">
                     <v-spacer></v-spacer>
                     <!-- <router-link :to="{ name: 'SignUp' }">Sign Up</router-link> -->
-                    Already have an account? <a href="#" class="pl-2" style="color: #000000">Sign In</a>
+                    Already have an account? <a href="../components/Login.vue" class="pl-2" style="color: #000000">Sign In</a>
                   </v-card-actions>
                 </v-form>
               </v-card-text>
               <v-card-actions class="ml-6 mr-6 text-center">
-                <p>By continuing, you agree to Fedorae Education's <a href="#" class="pl-2" style="color: #000000">Policy</a> and <a href="#" class="pl-2" style="color: #000000">Terms of Use</a></p>
+                <p>By continuing, you agree to KYC_Hashing's <a href="#" class="pl-2" style="color: #000000">Policy</a> and <a href="#" class="pl-2" style="color: #000000">Terms of Use</a></p>
               </v-card-actions>
             </v-card>
           </v-col>
