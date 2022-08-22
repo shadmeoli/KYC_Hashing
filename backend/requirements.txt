@@ -1,0 +1,11 @@
+httpx
+flask
+flask-sqlalchemy
+flask-bootstrap
+ipfs-tools
+blockfrost-python
+httpx
+blockfrost-python
+fastapi
+uvicorn[standard]
+ipfs-api
